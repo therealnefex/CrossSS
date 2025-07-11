@@ -1,14 +1,10 @@
 {
-    "cross_CEL799AqSm7Q": {
-        "type": "basic",
-        "expires": "2025-07-11T07:57:40.912752"
-    },
-    "ilovechips": {
-        "type": "staff",
-        "expires": null
-    },
-    "cross_gNlHfYmLaMV1": {
-        "type": "staff",
-        "expires": null
-    }
+  "cross_CEL799AqSm7Q": {
+    "type": "basic",
+    "expires": "2025-07-11T07:57:40.912752"
+  },
+  "cross_gNlHfYmLaMV1": {
+    "type": "staff",
+    "expires": null
+  }
 }
