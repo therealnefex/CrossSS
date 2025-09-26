@@ -1,1 +1,6 @@
-{}
+{
+  "privatekey_foryou": {
+    "plan": "basic",
+    "expires": null
+  }
+}
